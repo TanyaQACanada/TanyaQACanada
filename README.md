@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm switcher from medicine
 
-[![
-Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaQACanada)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaQACanada)](https://github.com/anuraghazra/github-readme-stats)
