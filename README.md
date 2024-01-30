@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning CISCO Cyber Security course and preparing for AWS Cloud Practitioner CLF-C02 exam
 - 📫 How to reach me: https://www.linkedin.com/in/tanyakosachova/
 - ⚡ Fun fact: I'm switcher from medicine
+- 💕 My dream: Work in GameDev
 
 <!-- ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanyaQACanada)](https://github.com/anuraghazra/github-readme-stats) -->
