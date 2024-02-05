@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Tanya and I'm Software QA Engineer since 2014. I'm an expert in complex maritime software products and have 2 years of experience in ML SaaS startups.
+### Hi there 👋 My name is Tanya and I'm Software QA Engineer since 2014. 
+### I'm an expert in complex maritime software products and have 2 years of experience in ML SaaS startups.
 
 - 🔭 I’m currently working on few volunteer projects for Fredericton community
 - 🌱 I’m currently learning CISCO Cyber Security course and preparing for AWS Cloud Practitioner CLF-C02 exam
