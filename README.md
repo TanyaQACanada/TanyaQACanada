@@ -3,3 +3,5 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/tanyakosachova/
 - ⚡ Fun fact: I'm a switcher from medicine
+
+[QA AI Automation.pptx](https://github.com/user-attachments/files/28431194/QA.AI.Automation.pptx)
